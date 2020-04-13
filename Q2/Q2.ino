@@ -2,7 +2,7 @@ void setup()
 {
   pinMode(7, OUTPUT);
   pinMode(6, OUTPUT);
-  pinMode(5, OUTPUT);
+
   pinMode(4, OUTPUT);
   Serial.begin(9600);
 }
